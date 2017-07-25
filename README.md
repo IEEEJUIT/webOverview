@@ -1,1 +1,1 @@
-# A basic overview to all the web technologies.
+# A basic overview to all the major web technologies.
